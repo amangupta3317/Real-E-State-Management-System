@@ -52,7 +52,7 @@ export default function Home() {
       <div className=" flex flex-col lg:flex-row gap-6 p-20 px-3 max-w-6xl mx-auto lg:items-center ">
         <div className="lg:w-1/2 ">
           <h1 className="text-teal-700 font-bold text-3xl lg:text-6xl">
-            Easily find your next move
+            Easily find your next
             <br /> <span className="">great </span>
             place....
           </h1>
